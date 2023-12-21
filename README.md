@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to ScrapeDogg 🐕</h1>
 <p>
-  <a href="https://www.npmjs.com/package/ScrapeDogg" target="_blank">
+  <a href="https://www.npmjs.com/package/scrapedogg" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/scraper.svg">
   </a>
   <a href="#" target="_blank">
