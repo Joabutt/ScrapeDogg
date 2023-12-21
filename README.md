@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to Scrape-GPT 👋</h1>
+<h1 align="center">Welcome to ScrapeDogg 🐕</h1>
 <p>
-  <a href="https://www.npmjs.com/package/Scrape-GPT" target="_blank">
+  <a href="https://www.npmjs.com/package/ScrapeDogg" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/scraper.svg">
   </a>
   <a href="#" target="_blank">
@@ -9,7 +9,7 @@
 </p>
 
 ## About
-`Scrape-GPT` is an experimental library for scraping websites using OpenAI's GPT.
+`ScrapeDogg` is an experimental library for scraping websites using OpenAI's GPT.
 
 The library provides a means to scrape structured data from HTML without writing page-specific code.
 
@@ -35,11 +35,11 @@ OPENAI_API_KEY=sk-...
 **Step 2)** Install the library however you like:
 
 ```bash
-npm install Scrape-GPT
+npm install ScrapeDogg
 ```
 or
 ```bash
-yarn add Scrape-GPT
+yarn add ScrapeDogg
 ```
 
 **Step3)** Initialize a URL and a Schema by indicating the data you wish to extract:
@@ -93,7 +93,7 @@ v8.16.0
 ## Install
 
 ```sh
-npm install Scrape-GPT
+npm install ScrapeDogg
 ```
 
 ## Run tests
