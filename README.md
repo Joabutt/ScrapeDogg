@@ -35,11 +35,11 @@ OPENAI_API_KEY=sk-...
 **Step 2)** Install the library however you like:
 
 ```bash
-npm install ScrapeDogg
+npm install scrapedogg
 ```
 or
 ```bash
-yarn add ScrapeDogg
+yarn add scrapedogg
 ```
 
 **Step3)** Initialize a URL and a Schema by indicating the data you wish to extract:
