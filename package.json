@@ -1,8 +1,8 @@
 {
   "name": "scrapedogg",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "node ./test/test.js"
   },
@@ -13,6 +13,7 @@
     "axios": "^1.6.2",
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.3.1",
-    "openai": "^4.24.0"
+    "openai": "^4.24.0",
+    "scrapedogg": "^1.1.0"
   }
 }
